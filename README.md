@@ -1,2 +1,2 @@
-# human-AI-text
-Detection of AI Generated Texts
+# Detection of AI Generated Texts
+The project aims to train a model that is capable of distinguishing between AI and Human Generated texts. The HC3 dataset available at https://github.com/Hello-SimpleAI/chatgpt-comparison-detection was used to perform this study. After successfully training the model, interpretability algorithms such as Integrated Gradients and LIME were used to interpret the specific words that are used by the model to make the prediction.
